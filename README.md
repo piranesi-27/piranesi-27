@@ -26,4 +26,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-3E3C3C?style=for-the-badge&logo=instagram)](https://www.instagram.com/soph__027/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-3E3C3C?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sofya-mikhtaryants-25a59a169/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piranesi-27&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piranesi-27&hide=stars&count_private=true&show_icons=true)
