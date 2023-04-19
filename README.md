@@ -25,7 +25,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-3E3C3C?style=for-the-badge&logo=jira)
 ![Swagger](https://img.shields.io/badge/Swagger-3E3C3C?style=for-the-badge&logo=swagger)
 ![Figma](https://img.shields.io/badge/Swagger-3E3C3C?style=for-the-badge&logo=figma)
-![TestRail](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=)
+![TestRail](https://img.shields.io/badge/TestRail-3E3C3C?style=for-the-badge&logo=)
 
 
 ### Follow me
