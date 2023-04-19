@@ -28,10 +28,10 @@
 ![TestRail](https://img.shields.io/badge/TestRail-3E3C3C?style=for-the-badge&logo=)
 
 
-### Follow me
+### Contact me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-3E3C3C?style=for-the-badge&logo=twitter)](https://twitter.com/somik27)
-[![Instagram](https://img.shields.io/badge/-Instagram-3E3C3C?style=for-the-badge&logo=instagram)](https://www.instagram.com/soph__027/)
+[![Email](https://img.shields.io/badge/-Email-3E3C3C?style=for-the-badge&logo=gmail)](mailto:somo1927@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-3E3C3C?style=for-the-badge&logo=telegram)](https://t.me/soph116)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-3E3C3C?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sofya-mikhtaryants-25a59a169/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piranesi-27&hide=stars&count_private=true&show_icons=true&theme=merko&include_all_commits=false)
