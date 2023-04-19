@@ -2,12 +2,12 @@
 
 ## I'm up and comming QA Engineer
 
-### Cases and bug reports
+### Portfolio
 
-[![Test Cases](https://img.shields.io/badge/-TestCases-4F60FC)](https://docs.google.com/spreadsheets/d/1kTZuVYWpsx4BLAReI6CJawvkhRQ_hGe0tIyRhRjlkng/edit#gid=497153384)
-[![Bug Reports](https://img.shields.io/badge/-BugReports-4F60FC)]https://docs.google.com/spreadsheets/d/1kTZuVYWpsx4BLAReI6CJawvkhRQ_hGe0tIyRhRjlkng/edit#gid=1667110429)
-[![Rest Api Auto Tests](https://img.shields.io/badge/-RestApiAutoTests-4F60FC)](https://github.com/piranesi-27/skillfactory_home_work_py/tree/master/home_work_19.7.2_petfriends_api)
-[![Auto Tests](https://img.shields.io/badge/-AutoTests-4F60FC)](https://github.com/piranesi-27/skillfactory_home_work_py/tree/master/Final_QAP_Rostelecom_28.1)
+[![Test Cases](https://img.shields.io/badge/-Test_Cases-4F60FC)](https://docs.google.com/spreadsheets/d/1kTZuVYWpsx4BLAReI6CJawvkhRQ_hGe0tIyRhRjlkng/edit#gid=497153384)
+[![Bug Reports](https://img.shields.io/badge/-Bug_Reports-4F60FC)](https://docs.google.com/spreadsheets/d/1kTZuVYWpsx4BLAReI6CJawvkhRQ_hGe0tIyRhRjlkng/edit#gid=1667110429)
+[![Rest Api Auto Tests](https://img.shields.io/badge/-Rest_Api_Auto_Tests-4F60FC)](https://github.com/piranesi-27/skillfactory_home_work_py/tree/master/home_work_19.7.2_petfriends_api)
+[![Auto Tests](https://img.shields.io/badge/-Auto_Tests-4F60FC)](https://github.com/piranesi-27/skillfactory_home_work_py/tree/master/Final_QAP_Rostelecom_28.1)
 
 
 
