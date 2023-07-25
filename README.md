@@ -1,8 +1,7 @@
 ![Header](https://github.com/piranesi-27/piranesi-27/blob/master/assets/header.png)
 
-## I'm QA Engineer first and all the rest second
 
-### My CV
+## My CV
 
 [Link to my CV](https://drive.google.com/file/d/1lJU2KlaDdtpBVKIRwx9V8Ryq-noNrkf1/view?usp=sharing)
 
