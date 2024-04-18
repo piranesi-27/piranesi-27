@@ -29,7 +29,7 @@
 
 ### Contact me
 
-[![Email](https://img.shields.io/badge/-Email-3E3C3C?style=for-the-badge&logo=gmail)](mailto:mikht-sofya@yandex.ru)
+[![Email](https://img.shields.io/badge/-Email-3E3C3C?style=for-the-badge&logo=gmail)](mailto:sofyamik27@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-3E3C3C?style=for-the-badge&logo=telegram)](https://t.me/ambrose75)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-3E3C3C?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sofya-mikhtaryants-25a59a169/)
 
