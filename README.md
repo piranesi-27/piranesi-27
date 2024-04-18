@@ -3,7 +3,7 @@
 
 ## My CV
 
-[Link to my CV](https://drive.google.com/file/d/1lJU2KlaDdtpBVKIRwx9V8Ryq-noNrkf1/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1ScSmycGqH39zj9LApyPepAAY4FBxEQlk/view?usp=sharing)
 
 ### Testing Documentation
 
